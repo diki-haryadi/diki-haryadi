@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**dikiharyadi19/dikiharyadi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Diki Haryadi</h1>
 <h3 align="center">A passionate Backend Developer from Indonesia</h3>
 
