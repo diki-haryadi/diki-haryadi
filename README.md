@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋, I'm Diki Haryadi</h1>
-<h3 align="center">A passionate Backend Developer from Indonesia</h3>
+Hey, people call me diki 👨‍💻! I am a backend engineer, Results-driven Backend Engineer with expertise in designing and developing robust microservices. Proficient in implementing cutting-edge technologies and agile methodologies for seamless cloud infrastructure integration. Strong analytical mindset and algorithmic expertise for optimizing system performance. Recognized for meticulous system debugging, monitoring skills, and delivering high-quality software solutions. Collaborative team players focused on creating scalable and efficient backend architectures. Ready to leverage extensive experience in software development for impactful contributions to innovative projects. Currently, I am work at [RCTI+](https://www.rctiplus.com/tv/rcti) as backend engineer.
+ 
+Check out my last projects on [my website](https://jacksalici.com) and please give me a slice of your pizza 🍕.
 
-- 🌱 I’m currently learning **Node Js, Adonijs**
-
-- 👨‍💻 All of my projects are available at [https://github.com/dikiharyadi19/dikiharyadi19](https://github.com/dikiharyadi19/dikiharyadi19)
-
-- 💬 Ask me about **vue, laravel, lumen, vuex, vuetify**
-
-- 📫 How to reach me **diki.haryadi1902@gmail.com**
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p>
-
-<p align="center">
-<a href="https://dev.to/dikiharyadi19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dikiharyadi19" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/diki-haryadi-59547b16b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diki-haryadi-59547b16b" height="30" width="30" /></a>
-</p>
+<a href="https://diki.haryadi.my.id"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/dikiharyadi19/dikiharyadi19.github.io?style=flat&label=Website%20updated:&labelColor=gray&color=blue&link=https%3A%2F%2Fdiki.haryadi.my.id"></a>
+![GitHub User's stars](https://img.shields.io/github/stars/dikiharyadi19?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20star%20earned:&color=red)
 
 
+### Current working projects 🌵
+- `Oauth2 Server`: streamlining authentication integration and unifying user management systems.
+- `audio recognition services`: creating a Shazam-like solution for identifying music in user-generated content.
+
+### Miscellaneous projects 🧰
+- [`Wallet Manager`](https://github.com/dikiharyadi19/haryadi-wallet): Simple app for managing the personal pocket for record expense and income.
+- [`Haryadi ERP`](https://github.com/dikiharyadi19/haryadi-erp): Ongoing building a microservice simple enterprise resource planning for personal use.
