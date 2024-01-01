@@ -8,7 +8,7 @@ Check out my last projects on [my website](https://jacksalici.com) and please gi
 
 ### Current working projects 🌵
 - `Oauth2 Server`: streamlining authentication integration and unifying user management systems.
-- `audio recognition services`: creating a Shazam-like solution for identifying music in user-generated content.
+- `Audio recognition services`: creating a Shazam-like solution for identifying music in user-generated content.
 
 ### Miscellaneous projects 🧰
 - [`Wallet Manager`](https://github.com/dikiharyadi19/haryadi-wallet): Simple app for managing the personal pocket for record expense and income.
