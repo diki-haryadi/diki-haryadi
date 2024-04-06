@@ -8,8 +8,6 @@ Tech Stack:
 - Backend: Golang, GraphQL, Java (8, 11), Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
 - Frontend: HTML5, CSS3, JavaScript, TypeScript, Vue, React
 - Database: MySql, PostgreSQL, MongoDB
-- Build tools: Maven
-- Servers: Tomcat
 - Version Control: Git
 - IDE: Intellij IDEA, VS Code
 - Operating System: Linux, Mac
